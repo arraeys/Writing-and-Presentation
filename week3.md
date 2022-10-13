@@ -247,7 +247,7 @@ Promises adalah sesuatu yang akan memakan waktu untuk dilakukan. Ada dua kemungk
 localStorage menyimpan data tanpa tanggal kedaluwarsa. Data tidak akan dihapus ketika browser ditutup, dan akan tersedia pada hari, minggu, atau tahun berikutnya.
 
 ```jsx
-localStorage.setItem("nama", "Andrian Putra Ramadan");
+localStorage.setItem("nama", "Arsen Marcelino");
 ```
 
 ## sessionStorage
@@ -255,5 +255,5 @@ localStorage.setItem("nama", "Andrian Putra Ramadan");
 sessionStorage sama dengan localStorage, namun sessionStorage menyimpan data hanya untuk satu sesi. Data dihapus ketika pengguna menutup tab browser tertentu.
 
 ```jsx
-sessionStorage.setItem("nama", "Mariana Evelin");
+sessionStorage.setItem("nama", "Java Pangolier");
 ```
