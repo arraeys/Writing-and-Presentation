@@ -1,5 +1,3 @@
-# Week 3
-
 # Array
 
 - *Array* adalah tipe data yang bisa menampung lebih dari satu nilai
