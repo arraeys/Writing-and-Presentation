@@ -10,21 +10,21 @@ Web server adalah software yang berfungsi menerima dan merespons *request* dari 
 
 ### Traditional HTML, CSS, dan JS
 
-![Untitled](Week%201%205f69533e597140528945ca94edf2fa83/Untitled%201.png)
+![Untitled](week5/Untitled%201.png)
 
 ### Client-Side Renderer
 
-![Untitled](Week%201%205f69533e597140528945ca94edf2fa83/Untitled%202.png)
+![Untitled](week5/Untitled%202.png)
 
 ### Server-Side Rendering
 
-![Untitled](Week%201%205f69533e597140528945ca94edf2fa83/Untitled%203.png)
+![Untitled](week5/Untitled%203.png)
 
 ## API
 
 API adalah *interface* yang bisa membuat sebuah sistem saling berkomunikasi
 
-![Untitled](Week%201%205f69533e597140528945ca94edf2fa83/Untitled%204.png)
+![Untitled](week5/Untitled%204.png)
 
 ## Apa itu REST
 
@@ -59,7 +59,7 @@ Status Code
 
 Node JS berfungsi untuk mengeksekusi kode JavaScript di luar *browser*
 
-![Untitled](Week%201%205f69533e597140528945ca94edf2fa83/Untitled%205.png)
+![Untitled](week5/Untitled%205.png)
 
 ## Built-In Module
 
@@ -100,11 +100,11 @@ Express adalah framework aplikasi web Node.js yang minimal dan fleksibel yang me
 
 ### Instalasi Express JS
 
-![Untitled](Week%201%205f69533e597140528945ca94edf2fa83/Untitled%206.png)
+![Untitled](week5/Untitled%206.png)
 
 ### Hello World, di Express JS
 
-![Untitled](Week%201%205f69533e597140528945ca94edf2fa83/Untitled%207.png)
+![Untitled](week5/Untitled%207.png)
 
 # Database Design
 
