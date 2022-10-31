@@ -1,5 +1,3 @@
-# Week 1
-
 # Web Server
 
 Web server adalah software yang berfungsi menerima dan merespons *request* dari pengguna
