@@ -4,7 +4,7 @@ Web server adalah software yang berfungsi menerima dan merespons *request* dari 
 
 ## Software Architecture
 
-![Untitled](Week%201%205f69533e597140528945ca94edf2fa83/Untitled.png)
+![Untitled](./Untitled.png)
 
 ## Macam - macam software architecture
 
