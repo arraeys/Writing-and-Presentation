@@ -1,5 +1,3 @@
-# Week 2
-
 # Database Introduction
 
 - Database adalah kumpulan informasi yang disimpan di dalam komputer secara sistematik dan saling berelasi.
